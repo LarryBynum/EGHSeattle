@@ -15,3 +15,5 @@ Nice-to-haves:
 1.	Export to Excel
 2.	Sign-in form for clients for intake keyosk
 
+Additional details
+1.  In the future we want to store donor information as well.  Be cognizant of this when generating the DB schema
